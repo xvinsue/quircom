@@ -15,7 +15,7 @@ This platform focuses on providing quality services and job opportunities tailor
 
 ## Installation
 1. Clone the repository:
-- git clone https://github.com/jianDeveloper/quircom.git
+- git clone https://github.com/xvinsue/quircom.git
 2. Navigate to the project directory:
 - cd quircom > cd frontend > cd backend
 3. Install the dependencies:
